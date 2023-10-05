@@ -124,16 +124,15 @@
 .lables{
     margin-top: 93px;
     margin-left: 55px;
-    display: block;
 }
 button{
     border: none;
     background-color: #333333;
-  padding: 15px 25px;
-  margin-top: 42px;
-  margin-left: 55px;
-  font-family: sans-serif;
-  font-weight: bold;
-  font-size: 16px;
-  color: #FFF;
+    padding: 15px 25px;
+    margin-top: 42px;
+    margin-left: 55px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFF;
 }
